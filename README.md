@@ -11,26 +11,20 @@ Try for FREE now. 20 trial SMS credits will be given upon [registration](https:/
 * Valid MoceanAPI account
 
 ## Installation
-To install the extension, you must download the file in ZIP format which can be found here "https://github.com/allinappli/alinto".
+To install the extension, you must download the file in ZIP format which can be found here "https://github.com/".
 
 Once the extension has been downloaded, you have to unzip the file and place it in "//civicrm/ext".
 
 ## Configuration
 1.	Navigate to Administer -> System Settings -> SMS Providers
-
 2.	Add new SMS Providers
-
 3.	Select the "MoceanAPISMS" from select field.(required)
-
 4.	In the Title field give any title for this MoceanAPISMS provider.
-
 5.	Username field = Mocean account API key. (required)
-	Password field = Mocean account API secret. (required)
-
-6.	Leave the API Type as "http".
-	Leave the API Url as "https://rest.moceanapi.com/rest/2/sms". 
-
-7.	API PARAMETERS = mocean-from="your_name". (required)
+6.	Password field = Mocean account API secret. (required)
+7.	Leave the API Type as "http".
+8.	Leave the API Url as "https://rest.moceanapi.com/rest/2/sms". 
+9.	API PARAMETERS = mocean-from="your_name". (required)
 
 ## Notes
 * Phone number format must having country code. E.g Malaysia phone number: 60123456789
