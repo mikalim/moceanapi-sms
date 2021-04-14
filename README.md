@@ -11,9 +11,9 @@ Try for FREE now. 20 trial SMS credits will be given upon [registration](https:/
 * Valid MoceanAPI account
 
 ## Installation
-To install the extension, you must download the file in ZIP format which can be found here "https://github.com/".
+To install the extension, you must download the file in ZIP format which can be found here "https://github.com/moceanapi/org.civicrm.sms.moceanapi".
 
-Once the extension has been downloaded, you have to unzip the file and place it in "//civicrm/ext".
+Once the extension has been downloaded, you have to unzip the file and place it in "/civicrm/ext".
 
 ## Configuration
 1.	Navigate to Administer -> System Settings -> SMS Providers
